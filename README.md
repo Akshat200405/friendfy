@@ -1,2 +1,2 @@
-# friendfy
+# social
 web developer

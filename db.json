@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "@johndoe",
+      "bio": "Web Developer",
+      "img": "https://randomuser.me/api/portraits/men/32.jpg"
+    }
+  ],
+  "stories": [],
+  "friends": []
+}
